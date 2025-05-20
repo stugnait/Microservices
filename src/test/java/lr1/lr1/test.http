@@ -1,0 +1,26 @@
+###
+POST http://localhost:8080/api/devices
+Content-Type: application/json
+
+{"name": "Smart Light", "type": "Lighting", "room": {"id": 1}}
+
+###
+GET http://localhost:8080/api/devices/3
+
+###
+DELETE http://localhost:8080/api/devices/2
+
+###
+PUT http://localhost:8080/api/devices/2
+Content-Type: application/json
+
+{"name": "Light Controller", "type": "Switch", "room": {"id": 1}}
+
+###
+PUT http://localhost:8080/api/devices/2
+Content-Type: application/json
+
+{"name": "Updated Smart Light", "type": "Lighting", "room": {"id": 1}}
+
+###
+DELETE http://localhost:8080/api/devices/1

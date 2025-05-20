@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1fc946dd-9ffa-4e10-a2d8-572f3c7d196a" name="Changes" comment="lab 4-5" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;stugnait&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/stugnait/Arch-Tests.git&quot;,
+    &quot;accountId&quot;: &quot;6b63bdd9-3427-481c-b6b0-dd1eb0b33039&quot;
+  }
+}</component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2uHKnENzneeXPz9OVbF5MZE1UOO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;HTTP Request.test | #1.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP Request.test | #2.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP Request.test | #3.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP Request.test | #4.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP Request.test | #5.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ControllerIntegrationTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ControllerIntegrationTests.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ControllerUnitTests.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ControllerWebMvcTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.DeviceControllerUnitTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.DeviceRepositoryTests.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.DeviceServiceTest.createDevice_multipleInvocations.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.DeviceServiceTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.DeviceServiceTest.getDeviceById_shouldPropagateRepoException.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ParcelControllerTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ProjArchitectureTests.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ProjArchitectureTests.servicesShouldNotBeAccessedByRepositoriesOrModels.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.RepositoryTests.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.RepositoryTests.shouldNotSaveDeviceWithNullType.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.RepositoryTests.shouldThrowExceptionWhenSavingDeviceWithNullType.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.RoomControllerUnitTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.RoomServiceTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.WarehouseControllerTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.WarehouseControllerTest.testGetWarehouse.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.WarehouseControllerTest.testUpdateWarehouse.executor&quot;: &quot;Run&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;Spring Boot.ApiGatewayApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.EurekaServerApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.EurekaserverApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.LogisticsSystemApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.ParcelServiceApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.ParcelserviceApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.SmartHomeApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.WarehouseServiceApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.WarehouseserviceApplication.executor&quot;: &quot;Run&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/lab5&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;run.configurations.included.in.services&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.repository.indices&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\STUGNA\OneDrive\Рабочий стол\Monolit\src\test" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\LogisticsSystem2\eureka-server\src\main\java\com" />
+      <recent name="E:\LogisticsSystem2" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="lr1.lr1" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="KtorApplicationConfigurationType" />
+        <option value="MicronautRunConfigurationType" />
+        <option value="QuarkusRunConfigurationType" />
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ApiGatewayApplication">
+    <configuration name="WarehouseControllerTest.testUpdateWarehouse" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lr1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lr1.lr1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="lr1.lr1" />
+      <option name="MAIN_CLASS_NAME" value="lr1.lr1.WarehouseControllerTest" />
+      <option name="METHOD_NAME" value="testUpdateWarehouse" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Monolit" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Monolit" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ApiGatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="api-gateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.gateway.ApiGatewayApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.gateway.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="eureka-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.eureka.EurekaServerApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.eureka.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ParcelServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="parcel-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.parcel.ParcelServiceApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.parcel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WarehouseServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="warehouse-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.warehouse.WarehouseServiceApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.warehouse.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.WarehouseServiceApplication" />
+        <item itemvalue="Spring Boot.ParcelServiceApplication" />
+        <item itemvalue="Spring Boot.EurekaServerApplication" />
+        <item itemvalue="Spring Boot.ApiGatewayApplication" />
+        <item itemvalue="JUnit.WarehouseControllerTest.testUpdateWarehouse" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-a94e463ab2e7-intellij.indexing.shared.core-IU-243.25659.39" />
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-IU-243.25659.39" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1fc946dd-9ffa-4e10-a2d8-572f3c7d196a" name="Changes" comment="" />
+      <created>1741900225044</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1741900225044</updated>
+      <workItem from="1741900226324" duration="4719000" />
+      <workItem from="1744925075227" duration="3611000" />
+      <workItem from="1745006075963" duration="730000" />
+      <workItem from="1745495831176" duration="5780000" />
+      <workItem from="1745504098099" duration="1153000" />
+      <workItem from="1745840324830" duration="109000" />
+      <workItem from="1745840446620" duration="2605000" />
+      <workItem from="1745844593617" duration="11000" />
+      <workItem from="1745846601499" duration="872000" />
+      <workItem from="1745847748747" duration="30000" />
+      <workItem from="1745847788247" duration="320000" />
+      <workItem from="1745848202698" duration="1828000" />
+      <workItem from="1745851790249" duration="4605000" />
+      <workItem from="1746040198533" duration="4408000" />
+      <workItem from="1746361261182" duration="112000" />
+      <workItem from="1746651687016" duration="10000" />
+      <workItem from="1747149278644" duration="7642000" />
+      <workItem from="1747424260099" duration="676000" />
+      <workItem from="1747700173348" duration="70000" />
+      <workItem from="1747700249708" duration="833000" />
+      <workItem from="1747701092197" duration="71000" />
+      <workItem from="1747701944108" duration="2278000" />
+      <workItem from="1747704241030" duration="125000" />
+    </task>
+    <task id="LOCAL-00001" summary="update">
+      <option name="closed" value="true" />
+      <created>1741901933231</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1741901933231</updated>
+    </task>
+    <task id="LOCAL-00002" summary="update 2">
+      <option name="closed" value="true" />
+      <created>1744927947034</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1744927947034</updated>
+    </task>
+    <task id="LOCAL-00003" summary="update 2">
+      <option name="closed" value="true" />
+      <created>1745006113024</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1745006113024</updated>
+    </task>
+    <task id="LOCAL-00004" summary="update 3">
+      <option name="closed" value="true" />
+      <created>1745504137880</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1745504137880</updated>
+    </task>
+    <task id="LOCAL-00005" summary="update 4">
+      <option name="closed" value="true" />
+      <created>1745504186813</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1745504186813</updated>
+    </task>
+    <task id="LOCAL-00006" summary="all working">
+      <option name="closed" value="true" />
+      <created>1745847759017</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1745847759018</updated>
+    </task>
+    <task id="LOCAL-00007" summary="all working, eto shok! call the ambulance!!">
+      <option name="closed" value="true" />
+      <created>1746043110263</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1746043110263</updated>
+    </task>
+    <task id="LOCAL-00008" summary="smtyh">
+      <option name="closed" value="true" />
+      <created>1747149947396</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1747149947396</updated>
+    </task>
+    <task id="LOCAL-00009" summary="smtyh">
+      <option name="closed" value="true" />
+      <created>1747149955978</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1747149955978</updated>
+    </task>
+    <task id="LOCAL-00010" summary="lab 2-3 done">
+      <option name="closed" value="true" />
+      <created>1747152209180</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1747152209180</updated>
+    </task>
+    <task id="LOCAL-00011" summary="lab 4-5">
+      <option name="closed" value="true" />
+      <created>1747159817289</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1747159817289</updated>
+    </task>
+    <task id="LOCAL-00012" summary="lab 4-5">
+      <option name="closed" value="true" />
+      <created>1747703897713</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1747703897713</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update" />
+    <MESSAGE value="update 2" />
+    <MESSAGE value="update 3" />
+    <MESSAGE value="update 4" />
+    <MESSAGE value="all working" />
+    <MESSAGE value="all working, eto shok! call the ambulance!!" />
+    <MESSAGE value="smtyh" />
+    <MESSAGE value="lab 2-3 done" />
+    <MESSAGE value="lab 4-5" />
+    <option name="LAST_COMMIT_MESSAGE" value="lab 4-5" />
+  </component>
+</project>
